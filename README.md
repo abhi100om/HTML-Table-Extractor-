@@ -1,4 +1,4 @@
-# HTML to CSV & Database Tool
+# HTML-Table-Extractor
 
 ## Overview
 A GUI-based tool to extract table data from HTML files, save it as CSV, and store it in an SQLite database.
